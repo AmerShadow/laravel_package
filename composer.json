@@ -1,0 +1,16 @@
+{
+    "name": "amershadow/greetings",
+    "description": "Just a sample greetings message",
+    "authors": [
+        {
+            "name": "Amershadow",
+            "email": "amersohailroot@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Amershadow\\Greetings\\": "src/"
+        }
+    },
+    "require": {}
+}
